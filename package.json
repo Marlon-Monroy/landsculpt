@@ -1,0 +1,16 @@
+{
+  "name": "landsculpt",
+  "version": "1.0.0",
+  "description": "Landsculpt platform api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Marlon Monroy",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "^4.15.3",
+    "mongoose": "^4.11.3"
+  }
+}
