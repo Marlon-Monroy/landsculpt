@@ -12,4 +12,4 @@ const ClientSchema = new Schema({
     }
 })
 
-module.exports = mongoose.model('client', ClientSchema)
+module.exports = mongoose.model('client', ClientSchema) 
