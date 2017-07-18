@@ -25,3 +25,11 @@ function fetchClient(req, res, next) {
 function authenticateClient(req, res, next) {
 
 }
+
+module.exports =  {
+   createClient,
+   deleteClient,
+   updateClient,
+   fetchClient,
+   authenticateClient
+}
